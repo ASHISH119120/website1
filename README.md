@@ -3,7 +3,7 @@
 🏢 Internship Details  
 Company: CODTECH IT SOLUTIONS PVT. LTD.  
 Name: ASHISH YADAV  
-Intern ID: CT12WP97  
+Intern ID: CT12WN170  
 Domain: Ethical Hacking  
 Internship Duration: 12 Weeks (March 21, 2025 – June 21, 2025)  
 Mentor: NEELA SANTOSH KUMAR  
