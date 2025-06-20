@@ -1,4 +1,4 @@
-🏢 Internship Details
+Internship Details
 Company: CODTECH IT SOLUTIONS PVT. LTD.
 Name: ASHISH YADAV
 Intern ID: CT12WP97
@@ -29,19 +29,19 @@ hash_db.json: Stores the original hashes for each file
 
 ▶️ How to Run
 
-Make sure Python is installed.
+Make sure Python is installed on your system.
 
-Prepare config.ini with file paths you want to monitor.
+Prepare a config.ini file with the file paths you want to monitor.
 
-Run the script:
+Run the script using the following command:
 
 bash
 Copy
 Edit
-python file_integrity_monitor.py  
+python file_integrity_monitor.py
 The script will generate or compare hash values and report any unauthorized file changes.
 
-📸 Output Screenshot
+📸 Output Screenshots
 
 Screenshot 2025-06-12 190242
 
